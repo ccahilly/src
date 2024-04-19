@@ -1,0 +1,31 @@
+{
+  "home": {
+    "hero": "images/home/hero.jpg",
+    "join_us": "images/home/join_us.jpg"
+  },
+  "schedule": {
+    "claw": "images/schedule/claw.jpg",
+    "track": "images/schedule/track.jpg",
+    "fun": "images/schedule/funrun.jpg",
+    "long": "images/schedule/longrun.jpg"
+  },
+  "about": {
+    "gallery": [
+      "images/about/gallery/1.jpg",
+      "images/about/gallery/2.jpg",
+      "images/about/gallery/3.jpg",
+      "images/about/gallery/4.jpg",
+      "images/about/gallery/5.jpg",
+      "images/about/gallery/6.jpg",
+      "images/about/gallery/7.jpg",
+      "images/about/gallery/8.jpg",
+      "images/about/gallery/9.jpg"
+    ]
+  },
+  "team": {
+    "coach": {
+      "hero": "images/coach/ernie.jpg",
+      "headshot": "images/coach/ernie-headshot.jpg"
+    }
+  }
+}

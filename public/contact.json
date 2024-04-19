@@ -1,0 +1,34 @@
+{
+  "mailingList": "https://mailman.stanford.edu/mailman/listinfo/runningclub",
+  "groupMe": "https://groupme.com/join_group/86180166/GCpGnJlp",
+  "strava": {
+    "public": "https://www.strava.com/clubs/179013"
+  },
+  "contacts": [
+    {
+      "role": "Co-President",
+      "people": [
+        {
+          "name": "Caroline Cahilly",
+          "email": "ccahilly@stanford.edu",
+          "image": "/images/contacts/caroline.jpg"
+        },
+        {
+          "name": "Katie Kearney",
+          "email": "katiek24@stanford.edu",
+          "image": "/images/contacts/katie.jpg"
+        }
+      ]
+    },
+    {
+      "role": "Webmaster",
+      "people": [
+        {
+          "name": "Anthony Riley",
+          "email": "anthonyjriley@gmail.com",
+          "image": "/images/contacts/anthony.jpg"
+        }
+      ]
+    }
+  ]
+}

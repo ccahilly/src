@@ -1,0 +1,42 @@
+{
+  "home": {
+    "title": "RUN WITH US",
+    "subtitle": ""
+  },
+  "schedule": {
+    "title": "SCHEDULE",
+    "subtitle": "Check out our schedule and come run with us!",
+    "claw": {
+      "title": "Claw Run",
+      "description": "A casual group run with a variety of pace groups, distances and routes around campus"
+    },
+    "track": {
+      "title": "Track Practice",
+      "description": "Open to all levels of runners with a variety of workouts to help you improve your speed"
+    },
+    "fun": {
+      "title": "Fun Run",
+      "description": "An exciting variety of adventures from fountain hopping to ice cream runs"
+    },
+    "long": {
+      "title": "Long Run",
+      "description": "Explore the beautiful trails of the Bay Area and test your endurance"
+    }
+  },
+  "about": {
+    "title": "WE DO IT ALL",
+    "subtitle": "The Stanford Running Club is a means for all of Stanford to come together and share a love of running. It is low pressure and flexible, with members showing up when they have the time and often planning runs of their own. We have many levels of runners, from those who have never run before to marathoners and ex-Stanford runners. We have undergraduates, graduate students, professors, and even visiting high schoolers. Pooling all of Stanford's runners, we guarantee that there'll always be someone with whom you can run. If you come, you will be entering an environment that inspires running and that will keep you fit. So, whether you are looking to stay in shape, find a team, or just have a relaxing activity, come on out and join us for a run."
+  },
+  "team": {
+    "title": "COMPETE WITH US",
+    "subtitle": "Ran in high school? We compete in cross country, track, and road races across the Bay Area and beyond. We have a great time and are always looking for new members.",
+    "coach": {
+      "name": "Ernest Lee",
+      "bio": "A Palo Alto native (born in Stanford Hospital), Ernie Lee ran competitively for Gunn High School and Princeton University. After graduating with a degree in physics, Ernie completed graduate studies at Stanford in the applied physics department. It was then that he began coaching at his former high school. He coached both cross country and track and field at Gunn High School for 18 years. Ernie currently works for a nanomaterials company and still races as a member of the HOKA Aggies Running Club."
+    }
+  },
+  "runs": {
+    "title": "WE LIKE TO RUN",
+    "subtitle": ""
+  }
+}
