@@ -2,12 +2,17 @@ import Layout from "@/components/layout";
 import images from "@/public/images.json";
 import copy from "@/public/copy.json";
 import records from "@/public/records.json";
+import Link from "next/link";
+import contact from "@/public/contact.json";
 
 export default function Contact() {
     return (
         <Layout>
             <section className="max-w-5xl mx-auto grid grid-cols-1 gap-8">
                 <h2 className="text-5xl lg:text-7xl font-black drop-shadow-xl text-center mt-20">{copy.team.title}</h2>
+                <Link href={contact.teamForm} className="w-fit mx-auto px-8 py-4 bg-rose-500 text-white text-xl font-semibold rounded hover:bg-rose-600 transition-colors">
+                    Join the Team
+                </Link>
                 <div className="text-neutral-500 flex items-center justify-center gap-8 text-center">
                     <hr className="w-1/3 my-4" />
                     {copy.team.subtitle}

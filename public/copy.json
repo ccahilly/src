@@ -36,7 +36,24 @@
     }
   },
   "runs": {
-    "title": "WE LIKE TO RUN",
-    "subtitle": ""
+    "title": "OUR ROUTES",
+    "subtitle": "",
+    "traditions": [
+      {
+        "name": "Dish Run",
+        "description": "3.25 mile run through the iconic Dish trail at Stanford, sponsored by the Stanford Rec and Wellness in partnership with Stanford Running Club.",
+        "season": "Spring"
+      },
+      {
+        "name": "Liquidy Lag Lap",
+        "description": "Our take on the classic beer mile, but with a twist. Run a lap around Lagunita Lake, drink a beverage each quarter way, and repeat.",
+        "season": "Fall / Spring"
+      },
+      {
+        "name": "Stanford to Sea",
+        "description": "24 mile run from Stanford to the Pacific Ocean, with a stop at the beach and a ride back to campus.",
+        "season": "Spring"
+      }
+    ]
   }
 }

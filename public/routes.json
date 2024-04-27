@@ -1,0 +1,114 @@
+{
+  "claw": [
+    {
+      "name": "Lake Lagunita",
+      "distance": "0.9 mi / 1.4 km",
+      "climb": "9 ft / 3 m",
+      "strava": "https://www.strava.com/routes/3108974817069445566"
+    },
+    {
+      "name": "Gelato Run",
+      "distance": "3.1mi / 5km",
+      "climb": "48 ft / 14 m",
+      "strava": "https://www.strava.com/routes/3108975963726591474"
+    },
+    {
+      "name": "Stanford Dish",
+      "distance": "3.4mi / 5.5km",
+      "climb": "478 ft / 146 m",
+      "strava": "https://www.strava.com/routes/3108976253463552008"
+    },
+    {
+      "name": "Campus Drive Loop",
+      "distance": "3.9mi / 6.3km",
+      "climb": "100 ft / 30 m",
+      "strava": "https://www.strava.com/routes/3108978470380824050"
+    },
+    {
+      "name": "The CKC",
+      "distance": "4.3mi / 7km",
+      "climb": "119 ft / 36 m",
+      "strava": "https://www.strava.com/routes/3108982927667866632"
+    },
+    {
+      "name": "Oak Creek Loop",
+      "distance": "4.3mi / 7km",
+      "climb": "48ft / 14m",
+      "strava": "https://www.strava.com/routes/3108984987483120062"
+    },
+    {
+      "name": "Encyclopedia Cave",
+      "distance": "Undisclosed",
+      "climb": "Undisclosed",
+      "strava": "https://goo.gl/vc9rsY"
+    },
+    {
+      "name": "Coyote Hill",
+      "distance": "5.4mi / 8.7km",
+      "climb": "245ft / 75m",
+      "strava": "https://www.strava.com/routes/3108987525059018760"
+    },
+    {
+      "name": "Castle",
+      "distance": "5.6mi / 9km",
+      "climb": "223ft / 68m",
+      "strava": "https://www.strava.com/routes/3108986611634307080"
+    },
+    {
+      "name": "Menlo Train Station",
+      "distance": "6.0mi / 9.7km",
+      "climb": "48ft / 14m",
+      "strava": "https://www.strava.com/routes/3108989015295481330"
+    },
+    {
+      "name": "Duck Pond",
+      "distance": "6.2mi / 10km",
+      "climb": "291ft / 89m",
+      "strava": "https://www.strava.com/routes/3108990460017721790"
+    },
+    {
+      "name": "Donkey Run",
+      "distance": "6.3mi / 10.1km",
+      "climb": "127ft / 39m",
+      "strava": "https://www.strava.com/routes/3109573107679458750"
+    },
+    {
+      "name": "Menlo Park Loop",
+      "distance": "7mi / 11.3km",
+      "climb": "59ft / 18m",
+      "strava": "https://www.strava.com/routes/3109575788534746558"
+    },
+    {
+      "name": "The Dish to Alpine",
+      "distance": "7.1mi / 11.4km",
+      "climb": "570ft / 174m",
+      "strava": "https://www.strava.com/routes/3109574542858953368"
+    },
+    {
+      "name": "Ikea Run",
+      "distance": "7.3mi / 11.7km",
+      "climb": "98ft / 30m",
+      "strava": "https://www.strava.com/routes/3109576337164720574"
+    },
+    {
+      "name": "Matadero Creek Trail",
+      "distance": "8.0mi / 12.9km",
+      "climb": "581ft / 177m",
+      "strava": "https://www.strava.com/routes/3109577019576211606"
+    },
+    {
+      "name": "Polo Fields",
+      "distance": "8.3mi / 13.4km",
+      "climb": "86ft / 26m",
+      "strava": "https://www.strava.com/routes/3109578256769536446"
+    }
+  ],
+  "long": [
+    {
+      "name": "Arasteradero West Loop",
+      "distance": "10.6mi / 17.1km",
+      "climb": "503ft / 153m",
+      "strava": "https://www.strava.com/routes/3109579762431542422"
+    }
+  ]
+}
