@@ -62,25 +62,32 @@ function MobileMenu() {
 
 export function Header() {
     return (
-        <header className="flex items-center justify-between p-4 max-w-5xl mx-auto w-full">
-            <Link href="/" className="text-2xl font-black hidden lg:flex items-center gap-4">
-                <img src="/images/logo.png" alt="Stanford Running Club" className="w-8 h-8" />
-                Stanford Running Club
-            </Link>
-            <Link href="/" className="text-2xl font-black lg:hidden flex items-center gap-4">
-                <img src="/images/logo.png" alt="Stanford Running Club" className="w-8 h-8" />
-                Stanford Run Club
-            </Link>
-            <nav className="hidden lg:flex items-center gap-4">
-                <NavLink href="/about">About</NavLink>
-                <NavLink href="/runs">Runs</NavLink>
-                <NavLink href="/team">Team</NavLink>
-                <Link href="/contact" className="px-4 py-2 bg-neutral-800 rounded text-white">
-                    Get in touch!
+        <>
+            <div className="bg-gradient-to-r from-rose-500 to-rose-600 w-full text-center text-white p-2">
+                Here for admit weekend, Friday 4/26? Join us at {" "}
+                <Link href="https://maps.app.goo.gl/vJHZpNA43oHq7Q367" className="underline">The Claw</Link> for our fountain hopping run.
+            </div>
+
+            <header className="flex items-center justify-between p-4 max-w-5xl mx-auto w-full">
+                <Link href="/" className="text-2xl font-black hidden lg:flex items-center gap-4">
+                    <img src="/images/logo.png" alt="Stanford Running Club" className="w-8 h-8" />
+                    Stanford Running Club
                 </Link>
-            </nav>
-            <MobileMenu />
-        </header>
+                <Link href="/" className="text-2xl font-black lg:hidden flex items-center gap-4">
+                    <img src="/images/logo.png" alt="Stanford Running Club" className="w-8 h-8" />
+                    Stanford Run Club
+                </Link>
+                <nav className="hidden lg:flex items-center gap-4">
+                    <NavLink href="/about">About</NavLink>
+                    <NavLink href="/runs">Runs</NavLink>
+                    <NavLink href="/team">Team</NavLink>
+                    <Link href="/contact" className="px-4 py-2 bg-neutral-800 rounded text-white">
+                        Get in touch!
+                    </Link>
+                </nav>
+                <MobileMenu />
+            </header>
+        </>
     );
 }
 
