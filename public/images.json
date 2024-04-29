@@ -23,9 +23,19 @@
     ]
   },
   "team": {
+    "hero": "images/team/hero.webp",
+    "records": "images/team/records.jpeg",
     "coach": {
       "hero": "images/coach/ernie.webp",
       "headshot": "images/coach/ernie-headshot.webp"
     }
+  },
+  "runs": {
+    "hero_gallery": [
+      "images/runs/hero_1.webp",
+      "images/runs/hero_3.webp",
+      "images/runs/hero_2.webp"
+    ],
+    "traditions_gallery": []
   }
 }

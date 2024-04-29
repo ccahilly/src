@@ -2,12 +2,23 @@ import Layout from "@/components/layout";
 import copy from "@/public/copy.json";
 import routes from "@/public/routes.json";
 import Link from "next/link";
+import images from "@/public/images.json";
 
 export default function Contact() {
     return (
         <Layout>
-            <section className="max-w-5xl mx-auto grid grid-cols-1 gap-8">
+            <section className="max-w-5xl mx-auto grid grid-cols-1 gap-8 p-4">
                 <h2 className="text-5xl lg:text-7xl font-black drop-shadow-xl text-center mt-20">{copy.runs.title.split(" ").slice(0, -1).join(" ")} <span className="underline underline-offset-2">{copy.runs.title.split(" ").slice(-1)}</span></h2>
+                <div className="grid grid-cols-1 lg:grid-cols-3 gap-2">
+                    {
+                        images.runs.hero_gallery.map((image, index) => (
+                            <img key={index} src={image} alt="Run Hero" className={
+                                `w-full h-full object-cover rounded aspect-video 
+                                ${index > 0 ? "hidden lg:block" : ""}`
+                            } />
+                        ))
+                    }
+                </div>
             </section>
             <section className="max-w-7xl mx-auto grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 p-4 my-20">
                 {

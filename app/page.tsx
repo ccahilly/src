@@ -16,9 +16,13 @@ export default function Home() {
           <img src={images.home.hero} alt="Runners" className="w-full h-full object-cover" />
         </div>
         <div className="flex flex-col justify-center items-center p-4">
-          <h2 className="text-5xl lg:text-7xl font-black drop-shadow-xl text-center">{copy.home.title}</h2>
-          <p className="text-neutral-500 text-center mt-4">{copy.home.subtitle}</p>
-          <IoCaretDown className="text-4xl mt-4 animate-bounce" />
+          <h2 className="text-4xl lg:text-7xl font-black drop-shadow-xl text-center">{copy.home.title}</h2>
+          {
+            copy.home.subtitle !== "" && copy.home.subtitle !== undefined ? (
+              <p className="text-neutral-500 text-center mt-2">{copy.home.subtitle}</p>
+            ) : null
+          }
+          <IoCaretDown className="text-4xl mt-2 animate-bounce" />
         </div>
       </section>
       <section className="max-w-7xl mx-auto grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4 p-4 my-20">
@@ -131,7 +135,7 @@ export default function Home() {
         </div>
       </section>
       <section className="max-w-7xl mx-auto grid grid-cols-1 lg:grid-cols-2 gap-8">
-        <div className="flex flex-col items-center justify-center text-center my-20">
+        <div className="flex flex-col items-center justify-center text-center mb-20">
           <h2 className="text-3xl lg:text-5xl font-extrabold drop-shadow-xl text-center">HOW TO JOIN?</h2>
           <h2 className="text-5xl lg:text-7xl font-black text-center mt-4"><span className="bg-gradient-to-br from-red-700 via-rose-600 to-pink-600 inline-block text-transparent bg-clip-text">EASY!</span> <br /> Just <span className="underline underline-offset-4">show up</span></h2>
           <div className="flex flex-col sm:flex-row gap-4 items-center justify-center mt-8">
