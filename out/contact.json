@@ -1,0 +1,35 @@
+{
+  "mailingList": "https://mailman.stanford.edu/mailman/listinfo/runningclub",
+  "groupMe": "https://groupme.com/join_group/86180166/GCpGnJlp",
+  "teamForm": "https://docs.google.com/forms/d/e/1FAIpQLSfqAx6QZlH1p14ZFe7uNFYTMaP15KNZ7BCYNd__-1Wid1flQQ/viewform?usp=sf_link",
+  "strava": {
+    "public": "https://www.strava.com/clubs/179013"
+  },
+  "contacts": [
+    {
+      "role": "Co-President",
+      "people": [
+        {
+          "name": "Spencer Seay",
+          "email": "spenseay@stanford.edu",
+          "image": "/images/contacts/spencer.jpg"
+        },
+        {
+          "name": "Oriana Riley",
+          "email": "oriley@stanford.edu",
+          "image": "/images/contacts/oriana.jpg"
+        }
+      ]
+    },
+    {
+      "role": "Webmaster",
+      "people": [
+        {
+          "name": "Anthony Riley",
+          "email": "anthonyjriley@gmail.com",
+          "image": "/images/contacts/anthony.jpg"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "home": {
+    "hero": "images/home/hero_1.webp",
+    "join_us": "images/home/join_us.webp"
+  },
+  "schedule": {
+    "claw": "images/schedule/claw.webp",
+    "track": "images/schedule/track.webp",
+    "fun": "images/schedule/funrun.webp",
+    "long": "images/schedule/longrun.webp"
+  },
+  "about": {
+    "gallery": [
+      "images/about/gallery/1.webp",
+      "images/about/gallery/2.webp",
+      "images/about/gallery/3.webp",
+      "images/about/gallery/4.webp",
+      "images/about/gallery/5.webp",
+      "images/about/gallery/6.webp",
+      "images/about/gallery/7.webp",
+      "images/about/gallery/8.webp",
+      "images/about/gallery/9.webp"
+    ]
+  },
+  "team": {
+    "hero": "images/team/hero.webp",
+    "records": "images/team/records.jpeg",
+    "coach": {
+      "hero": "images/coach/ernie.webp",
+      "headshot": "images/coach/ernie-headshot.webp"
+    }
+  },
+  "runs": {
+    "hero_gallery": [
+      "images/runs/hero_1.webp",
+      "images/runs/hero_3.webp",
+      "images/runs/hero_2.webp"
+    ]
+  }
+}

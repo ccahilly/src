@@ -1,0 +1,34 @@
+{
+  "claw": {
+    "days": ["Tuesday", "Wednesday"],
+    "time": "4:45pm",
+    "location": {
+      "name": "The Claw",
+      "url": ""
+    }
+  },
+  "track": {
+    "days": ["Monday", "Thursday"],
+    "time": "6:00pm",
+    "location": {
+      "name": "Cobb Track",
+      "url": ""
+    }
+  },
+  "fun": {
+    "days": ["Friday"],
+    "time": "4:45pm",
+    "location": {
+      "name": "The Claw",
+      "url": ""
+    }
+  },
+  "long": {
+    "days": ["Saturday"],
+    "time": "9:30am",
+    "location": {
+      "name": "Escondido Turnaround",
+      "url": ""
+    }
+  }
+}
